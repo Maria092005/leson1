@@ -18,5 +18,5 @@ jobs:
           script: |
             mkdir MariaKit 
             cd MariaKit  
-            git clone https://github.com/olehpitsun/cicdex.git 
+            git clone https://github.com/Maria092005/leson1.git
             echo 'Deployment successful to digital ocean d1'
